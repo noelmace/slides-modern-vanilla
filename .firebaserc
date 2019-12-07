@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "modern-vanilla"
+  },
+  "targets": {
+    "modern-vanilla": {
+      "hosting": {
+        "devfesttls19": [
+          "vanilla-devfesttls19"
+        ],
+        "poss19": [
+          "vanilla-poss19"
+        ]
+      }
+    }
+  }
+}
