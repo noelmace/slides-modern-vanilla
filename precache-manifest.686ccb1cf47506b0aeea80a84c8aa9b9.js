@@ -1438,7 +1438,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/logos/wc.svg"
   },
   {
-    "revision": "1fd969806940a1fc8b56640fad9e1d9c",
+    "revision": "07680b05fd9b24e52cff1bc09666875a",
     "url": "index.html"
   },
   {
